@@ -1,0 +1,17 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Jonas Haag
+email: jonas.haag@hotmail.com
+description: Jonas Haag Portfolio
+baseurl: "haag-dev"
+url: ""
+name: Jonas Haag
+job: iOS & Android Developer
+location: Sweden
+languages: Swift, Java and cats
+github_username:  wanaka
+email_address: jonas.haag@hotmail.com
+
+# Build settings
+markdown: kramdown
