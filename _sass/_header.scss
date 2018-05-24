@@ -1,5 +1,8 @@
 // @name Header
 // @description All header styles
+.header_class{
+    background-color: #acdbc9;
+}
 
 header {
     border-bottom: 1px solid #edefee;
@@ -36,5 +39,12 @@ header {
 .social {
     a {
         margin-right: $spacer;
+        text-decoration:none;
+        background-color:#fff;
+        padding:5px;
+        border-radius: 5px;
+        &:hover {
+        }
     }
+ 
 }

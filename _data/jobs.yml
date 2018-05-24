@@ -1,7 +1,20 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Passenger App
+    company: Android Developer Intern
+    description: This app is a car sharing app where the driver can save money by picking up passengers who are going in the same direction as the driver. By picking up more passengers the driver earns points which he then can use to get a free car wash or a check up. 
+    img1: driver_passenger.png
+    img2: map.png
+    img3: register.png
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Cykelund App
+    company: iOS Developer
+    description: With this app you can see where all the accessible bike pumps are located in the City of Lund, which is known for it's many students and bikers. This app makes it easy to locate the nearest bike pump close to you. You can report to the City of Lund if the pump is broken by easily send them a pre-entered email.
+    img1: bike_map.png
+    img2: bike_active.png
+    img3: bike_camera.png
+
+-   title: Give Me Booze
+    company: iOS Developer
+    description: This was my first attempt to do an app by myself. It's a drink mixer, it gives you random recipes of different drinks. You can chose drinks based on the main alcohol ingredients.
+    img1: drink.png
+    img2: drink_mix.png
+    img3: drink_recipe.png

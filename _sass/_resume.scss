@@ -1,6 +1,5 @@
 // @name Resume
 // @description All resume styles
-
 dl {
     margin-bottom: $spacer;
 }
@@ -48,4 +47,9 @@ a {
         background: rgba(245, 215, 110, 1);
         text-decoration: none;
     }
+}
+
+.img {
+    width: 45%;
+    margin-top:30px
 }
