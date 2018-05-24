@@ -8,13 +8,13 @@
 -   title: Cykelund App
     company: iOS Developer
     description: With this app you can see where all the accessible bike pumps are located in the City of Lund, which is known for it's many students and bikers. This app makes it easy to locate the nearest bike pump close to you. You can report to the City of Lund if the pump is broken by easily send them a pre-entered email.
-    img1: bike_map.png
-    img2: bike_active.png
-    img3: bike_camera.png
+    img1: bike_map.PNG
+    img2: bike_active.PNG
+    img3: bike_camera.PNG
 
 -   title: Give Me Booze
     company: iOS Developer
     description: This was my first attempt to do an app by myself. It's a drink mixer, it gives you random recipes of different drinks. You can chose drinks based on the main alcohol ingredients.
-    img1: drink.png
-    img2: drink_mix.png
-    img3: drink_recipe.png
+    img1: drink.PNG
+    img2: drink_mix.PNG
+    img3: drink_recipe.PNG
